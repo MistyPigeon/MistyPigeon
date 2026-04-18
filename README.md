@@ -1,13 +1,12 @@
 # 👋 Hi, I’m MistyPigeon!
 
-Welcome to my GitHub profile! I'm a passionate **Roblox & Brawl Stars YouTuber** who loves sharing gameplay, tips, and fun moments with my community. But that's not all—I also have a keen interest in **cybersecurity**, especially **malware analysis**. Whether you're here for games or geekiness, you'll find a bit of both!
+Welcome to my GitHub profile! I'm a passionate **Roblox & Brawl Stars YouTuber** who loves sharing gameplay, tips, and fun moments with my community. But that's not all—I also have a keen interest in **cybersecurity**, especially **malware analysis** and coding. Whether you're here for games or geekiness, you'll find a bit of both!
 
 ---
 
-## 🎮 What I Do
+## What I Do
 
 - **YouTube Creator** focused on Roblox & Brawl Stars  
-  [YouTube Wiki](https://bit.ly/43nWm8I)
 - **Cybersecurity Enthusiast**  
   Specializing in malware analysis and digital threats
 - **Roblox Explorer**  
@@ -16,8 +15,15 @@ Welcome to my GitHub profile! I'm a passionate **Roblox & Brawl Stars YouTuber**
 ---
 
 ## 🛠️ Top Skills
-
-- Malware Analysis 🦠
+### 💡 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=py,java,html,clojure,html" />
+</p>
+### Currently learning
+<p>
+  <img src="https://skillicons.dev/icons?i=py,java,html,clojure" />
+</p>
+- Malware Analysis 
 - Content Creation (Roblox & Brawl Stars)
 - Community Engagement
 
