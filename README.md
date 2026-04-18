@@ -44,7 +44,7 @@ Currently learning
 
 ---
 
-## 💡 Fun Fact
+## Fun Fact
 
 I'm a proud **Shia Muslim** and love connecting with people from all walks of life!
 
