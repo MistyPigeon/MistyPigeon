@@ -26,7 +26,7 @@ Welcome to my GitHub profile! I'm a passionate **Roblox & Brawl Stars YouTuber**
 ## 🛠️ Top Skills
 ### 💡 Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=py,java,html,clojure,html" />
+  <img src="https://skillicons.dev/icons?i=py,java,clojure,html" />
 </p>
 Currently learning
 <p>
