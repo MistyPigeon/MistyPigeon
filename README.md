@@ -29,7 +29,7 @@ Welcome to my GitHub profile! I'm a passionate **Roblox & Brawl Stars YouTuber**
 </p>
 Currently learning
 <p>
-  <img src="https://skillicons.dev/icons?i=py,java,html,clojure" />
+  <img src="https://skillicons.dev/icons?i=py,java,clojure" />
 </p>
 
 ---
