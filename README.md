@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm a passionate **Roblox & Brawl Stars YouTuber**
 <p>
   <img src="https://skillicons.dev/icons?i=py,java,html,clojure,html" />
 </p>
-### Currently learning
+Currently learning
 <p>
   <img src="https://skillicons.dev/icons?i=py,java,html,clojure" />
 </p>
