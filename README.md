@@ -46,7 +46,7 @@ Currently learning
 
 ## Fun Fact
 
-I'm a proud **Shia Muslim** and love connecting with people from all walks of life!
+My father and mother first met in a  COBOL class in a college
 
 ---
 
