@@ -37,7 +37,10 @@ Currently learning
   <img src="https://skillicons.dev/icons?i=py,java,clojure" />
 </p>
 
-[🔐 Cybersecurity/Malware Analysis](https://skillicons.dev/icons?i=bash,debian,ubuntu,bsd,windows,apple)]
+### 🔐 Cybersecurity/Malware Analysis
+<p>
+  <img src="https://skillicons.dev/icons?i=bash,debian,ubuntu,bsd,windows,apple" />
+</p>
 ---
 
 ## 🌐 Find Me Online
