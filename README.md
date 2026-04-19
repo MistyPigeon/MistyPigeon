@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm a passionate **Roblox & Brawl Stars YouTuber**
 - **Roblox**
   [My Roblox Profile](https://bit.ly/misty-yt-rbx-acc)
 - **Programming**
-  [My g.dev profile](https://g.dev/misty-pigeon)
+  [My Google Developers profile](https://g.dev/misty-pigeon)
 
 ---
 
