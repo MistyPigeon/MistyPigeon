@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm a passionate **Roblox, Brawl Stars & Tech YouT
 
 ## What I Do
 
-- **YouTube Creator** focused on Roblox & Brawl Stars  
+- **YouTube Creator** focused on Roblox, Brawl Stars & Tech
 - **Cybersecurity Enthusiast**  
   Specializing in malware analysis and digital threats
 - **Coding**
