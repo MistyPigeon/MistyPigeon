@@ -17,7 +17,6 @@ Welcome to my GitHub profile! I'm a passionate **Roblox, Brawl Stars & Tech YouT
 - **Cybersecurity Enthusiast**  
   Specializing in malware analysis and digital threats
 - **Coding**
-  
   Specializing in problem-solving, OOP, system tasks and configuration
 - **Roblox**
   [My Roblox Profile](https://bit.ly/misty-yt-rbx-acc)
