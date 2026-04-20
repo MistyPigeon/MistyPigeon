@@ -11,12 +11,13 @@
 
 Welcome to my GitHub profile! I'm a passionate **Roblox, Brawl Stars & Tech YouTuber** who loves sharing gameplay, tips,fun moments & interesting old devices with my communities. But that's not all—I also have a keen interest in **cybersecurity**, especially **malware analysis** and coding. Whether you're here for games or geekiness, you'll find a bit of both!
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/mistypigeon?theme=dark&font=Inter&ext=horizontal" alt="LeetCode Stats" />
-</p>
+
 
 ---
-
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/mFaizanAsim?theme=dark&font=Inter&ext=horizontal" alt="LeetCode Stats" />
+</p>
+---
 ## What I Do
 
 - **YouTube Creator** focused on Roblox, Brawl Stars & Tech
