@@ -65,7 +65,7 @@ Currently learning
 
 ## 🧾 Certificates
 
-<img width="2376" height="1836" alt="Dynamics 365 Sales Beginner to Pro Workshop - MistyPigeon (Abdullah Ali)(1)" src="https://github.com/user-attachments/assets/411a0f89-48d5-4195-9688-29b8ccb5dc2e" />
+<img width="1188" height="918" alt="Dynamics 365 Sales Beginner to Pro Workshop - MistyPigeon (Abdullah Ali)(1)" src="https://github.com/user-attachments/assets/411a0f89-48d5-4195-9688-29b8ccb5dc2e" />
 
 
 ## Fun Fact
